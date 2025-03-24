@@ -35,4 +35,4 @@ def daily_min(data):
 
 def daily_std_dev(data):
     """Computes and returns standard deviation for data."""
-    return np.std(data,axis=0)
+    return np.std(data, axis=0)
